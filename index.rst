@@ -16,10 +16,10 @@ EnOS IoT Operating System
    :maxdepth: 1
    :caption: EnOS Services
 
-   Device connection <https://docs.eniot.io/docs/enos/projects/device-connection/en/latest/>
-   Online data processing <https://docs.eniot.io/docs/enos/projects/online-data/en/latest/>
-   Offline data processing <https://docs.eniot.io/docs/enos/projects/offline-data/en/latest/>
-   Data analysis and report <https://docs.eniot.io/docs/enos/projects/analysis_report/en/latest/>
+   Device connection <https://docs.envisioniot.com/docs/enos/projects/device-connection/en/latest/>
+   Online data processing <https://docs.envisioniot.com/docs/enos/projects/online-data/en/latest/>
+   Offline data processing <https://docs.envisioniot.com/docs/enos/projects/offline-data/en/latest/>
+   Data analysis and report <https://docs.envisioniot.com/docs/enos/projects/analysis_report/en/latest/>
 
 .. toctree::
     :maxdepth: 1
@@ -32,7 +32,7 @@ EnOS IoT Operating System
     :maxdepth: 1
     :caption: Tutorials
 
-    Connecting devices through EnOS Edge <https://docs.eniot.io/docs/enos/projects/enos-tutorials/en/latest/device_connection/try/index.html>
+    Connecting devices through EnOS Edge <https://docs.envisioniot.com/docs/enos/projects/enos-tutorials/en/latest/device_connection/try/index.html>
 
 .. toctree::
    :maxdepth: 1
