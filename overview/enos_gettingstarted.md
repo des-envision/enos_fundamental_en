@@ -2,10 +2,4 @@
 
 To get started with EnoS, you'll first need to request an account.
 
-## How to request an EnOS account
-
-
-## Typical paths of working with EnOS
-
-
-## What to do next
+You can request an indidual account or an Enterprise account based on your needs.
