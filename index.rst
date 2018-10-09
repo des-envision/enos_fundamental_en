@@ -8,28 +8,19 @@ EnOS IoT Operating System
    :caption: Overview
 
    overview/enos_introduction
-   overview/enos_architecture
-   overview/enos_gettingstarted
-   overview/enos_scenarios
-   iam/iam_overview
+   overview/accessing_enos
 
 .. toctree::
    :maxdepth: 1
-   :caption: EnOS Services
-
+   :caption: EnOS Services and Funtions
+   
+   Identity and access management <https://docs.envisioniot.com/docs/iam/en/latest/iam_overview.html>
    Device connection <https://docs.envisioniot.com/docs/device-connection/en/latest/deviceconnection_overview.html>
    Event management <https://docs.envisioniot.com/docs/event-management/en/latest/gettingstarted.html>
    Real-time data processing <https://docs.envisioniot.com/docs/online-data/en/latest/streaming_overview.html>
    Batch data processing <https://docs.envisioniot.com/docs/offline-data/en/latest/gettingstarted.html>
    Data analysis and report <https://docs.envisioniot.com/docs/analysis-report/en/latest/gettingstarted.html>
    Application development <https://docs.envisioniot.com/docs/app-development/en/latest/gettingstarted.html>
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Security
-
-    security/security_architecture
-    security/security_schemes
 
 .. toctree::
     :maxdepth: 1
@@ -49,7 +40,7 @@ EnOS IoT Operating System
    APIs <https://developer.envisioncn.com/portal/#platform-apiService-enosApi/%2Fportal%2Feeoplist.html/%7B%22portalNamespace%22%3A%22%22%2C%22locale%22%3A%22en-US%22%7D>
    reference/glossary.md
 
-download
+Downloads
 """"""""
     pdf_ htmlzip_ epub_
 .. _pdf: https://docs.envisioniot.com/projects/enos/downloads/pdf/latest/

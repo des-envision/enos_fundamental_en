@@ -2,6 +2,7 @@ Identity and Access Management
 --------------------------
 
 .. toctree::
+   :maxdepth: 1
 
    iam_overview
    iam_gettingstarted
@@ -9,3 +10,4 @@ Identity and Access Management
    managing_users
    managing_groups
    managing_policies
+   application_authorization

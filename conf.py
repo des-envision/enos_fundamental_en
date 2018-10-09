@@ -149,7 +149,7 @@ htmlhelp_basename = 'EnOSDocumentationCenterdoc'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
-    # 'papersize': 'letterpaper',
+    # 'papersize': 'a4paper',
 
     # The font size ('10pt', '11pt' or '12pt').
     #
@@ -157,7 +157,7 @@ latex_elements = {
 
     # Additional stuff for the LaTeX preamble.
     #
-    # 'preamble': '',
+      'preamble': '\geometry{a4paper,left=3cm,right=3cm,top=2cm,bottom=2cm}',
 
     # Latex figure (float) alignment
     #
@@ -220,3 +220,7 @@ epub_exclude_files = ['search.html']
 
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'https://docs.python.org/': None}
+
+# custom css
+def setup(app):
+    app.add_stylesheet('css/custom.css')

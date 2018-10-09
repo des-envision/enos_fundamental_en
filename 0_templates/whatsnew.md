@@ -1,20 +1,20 @@
 # What's new发行说明
 
-平台级
-
 ## What's new in xxx release
 
-### 模块A名称
+如果我们还没有正式对外的VMRF版本编号，我们用时间
 
-#### 新增对xxx的支持
+### Device connection
 
-描述新功能，并指向该新功能的sample code（如果有的话）和对应文档。
-
-#### 新增对xxx的支持
+#### Add support for xxx
 
 描述新功能，并指向该新功能的sample code（如果有的话）和对应文档。
 
-### 模块B名称
+#### Updated xxx
+
+描述新功能，并指向该新功能的sample code（如果有的话）和对应文档。
+
+### Stream processing
 
 #### 新增对xxx的支持
 
