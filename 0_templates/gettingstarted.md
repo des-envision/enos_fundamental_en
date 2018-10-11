@@ -9,9 +9,7 @@ There should be a one sentence intro to the prereqs. If you don't have prereqs, 
 - You must have an EnOS account.
 - You must have connected your devices into EnOS.
 
-## Procedure 步骤
-
-Step 1: Title should be task oriented and descriptive
+## Step 1: Title should be task oriented and descriptive
 
 For example: "Now you're ready to start working with the app. Clone the repo and change the directory to where the sample app is located.
 
@@ -34,11 +32,11 @@ If this step can be done in several ways, use unordered list:
 - Approach 2
 - Approach 3
 
-Step 2: Title should be task oriented and descriptive
+## Step 2: Title should be task oriented and descriptive
 
-Step 3: Title should be task oriented and descriptive
+## Step 3: Title should be task oriented and descriptive
 
-Step 4: Title should be task oriented and descriptive
+## Step 4: Title should be task oriented and descriptive
 
 
 If you have any "tips" to include for this step, add the content in the flow where you would like it to appear. This information should be not be required information for completing the step, but helpful information in explaining additional concepts about what the user is doing in the step. It should be in the following format:

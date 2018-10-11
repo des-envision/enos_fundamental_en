@@ -13,13 +13,12 @@ EnOS IoT Operating System
 .. toctree::
    :maxdepth: 1
    :caption: EnOS Services and Funtions
-   
+
    Identity and access management <https://docs.envisioniot.com/docs/iam/en/latest/iam_overview.html>
    Device connection <https://docs.envisioniot.com/docs/device-connection/en/latest/deviceconnection_overview.html>
-   Event management <https://docs.envisioniot.com/docs/event-management/en/latest/gettingstarted.html>
    Real-time data processing <https://docs.envisioniot.com/docs/online-data/en/latest/streaming_overview.html>
    Batch data processing <https://docs.envisioniot.com/docs/offline-data/en/latest/gettingstarted.html>
-   Data analysis and report <https://docs.envisioniot.com/docs/analysis-report/en/latest/gettingstarted.html>
+   Data analysis and report <https://docs.envisioniot.com/docs/analysis-report/en/latest/index>
    Application development <https://docs.envisioniot.com/docs/app-development/en/latest/gettingstarted.html>
 
 .. toctree::
