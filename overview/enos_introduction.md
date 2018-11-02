@@ -16,7 +16,7 @@ Enterprise-grade software stack with flexible deployment options (public, privat
 
 EnOS can operate in private cloud and public cloud hosting environment to enable clients to develop, run and operate their applications without handling the complexity of managing software stacks.
 
-EnOS can also be deployed in virtual private cloud (VPC) on public cloud hosting environment and private cloud without dependency on underlying hypervisors. you can also deploy the solution that best suits your requirements for cost, control, configurability, scalability, location and security.
+EnOS can also be deployed in virtual private cloud (VPC) on public cloud hosting environment and private cloud without dependency on underlying hypervisors. You can also deploy the solution that best suits your requirements for cost, control, configurability, scalability, location and security.
 
 
 **Domain expertise**
@@ -24,6 +24,7 @@ EnOS can also be deployed in virtual private cloud (VPC) on public cloud hosting
 Domain driven data architecture promised by rich experience with smart energy devices and scenarios.
 
 Through extensive domain metadata, EnOS supports standardized data acquisition policies, ingestion rules, event handling rules, data retention policies, ODS schema, access control policies and data quality policies cross layer 3 to 5 in the 7-layer reference architecture, as illustrated in Figure 7.
+
 With configurable metadata mapping from the data source to the data target, this process will significantly reduce the effort required for data cleansing and normalization.
 
 **Eco-system**
